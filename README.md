@@ -1,4 +1,4 @@
-# Paso a paso para instalar Magento ver. 1.9.3.8 con Docker
+# Paso a paso para instalar Magento ver. 1.9.3.8 con Docker en Ubuntu 18.04
 
 # 1 - Actualizamos el Sistema
 ```

@@ -1,5 +1,3 @@
-# Instalar Magento Docker
-
 # 1 - Actualizamos el Sistema
 ```
 sudo su

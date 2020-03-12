@@ -35,7 +35,7 @@ user: root
 pass: myrootpassword
 ```
 
-# 6 -Constraseñas
+# 6 -Contraseñas de Magento
 ```
 MYSQL_HOST=db
 MYSQL_ROOT_PASSWORD=myrootpassword

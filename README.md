@@ -35,7 +35,7 @@ user: root
 pass: myrootpassword
 ```
 
-# Constraseñas
+# 6 -Constraseñas
 ```
 MYSQL_HOST=db
 MYSQL_ROOT_PASSWORD=myrootpassword

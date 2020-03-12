@@ -18,7 +18,7 @@ docker run -d -p 9000:9000 -p 8000:8000 --name portainer --restart always -v /va
 https://github.com/falconsoft3d/docker-magento
 ```
 
-# 4 - Instalamos magento
+# 4 - Instalamos Magento
 ```
 apt-get install docker-compose
 docker-compose up -d

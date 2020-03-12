@@ -15,7 +15,8 @@ docker run -d -p 9000:9000 -p 8000:8000 --name portainer --restart always -v /va
 
 # 3 - Clonamos el repo de Magento
 ```
-https://github.com/falconsoft3d/docker-magento
+git clone https://github.com/falconsoft3d/docker-magento
+cd docker-magento
 ```
 
 # 4 - Instalamos Magento

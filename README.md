@@ -55,6 +55,18 @@ MAGENTO_ADMIN_USERNAME=admin
 MAGENTO_ADMIN_PASSWORD=magentorocks1
 ```
 
+# 7 - Y ahora vamos con Pyhton RPC
+```
+from magento import MagentoAPI
+
+magento = MagentoAPI("134.122.75.77", 80, "odoo", "pass")
+# magento.help()
+args =  {}
+produts = magento.catalog_product.list(args)
+print(produts)
+```
+
+
 
 
 

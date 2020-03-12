@@ -25,6 +25,13 @@ apt-get install docker-compose
 docker-compose up -d
 ```
 
+# Nos conectamos a Portainer para sacar el ip
+```
+host: 172.18.0.2
+user: root
+pass: myrootpassword
+```
+
 
 
 
